@@ -30,10 +30,7 @@ This project demonstrates full-stack mobile engineering capabilities, handling b
 * **Custom Render Objects:** Handled complex typography and text rendering to respect the aesthetic integrity of poetry, regardless of the era.
 * **Responsive Layouts:** Utilized `SliverGrid` and custom delegates for the category listing (*Grid View*), ensuring smooth scrolling performance even with heavy assets.
 
-#### 3. Hardware Integration
-* **Sensor Fusion:** The "Poetry Compass" (*Pusula Feature*) integrates device accelerometer and magnetometer sensors to create an interactive navigation experience, guiding users metaphorically through literary history.
-
-#### 4. Backend & Data Architecture
+#### 3. Backend & Data Architecture
 * **Firebase Cloud Firestore:** Designed a scalable NoSQL schema to efficiently query both indexed historical archives and real-time user posts.
 * **Authentication:** Managed secure user sessions to handle profile personalization and publishing rights.
 
