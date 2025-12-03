@@ -9,11 +9,11 @@
 ### 📱 Application Gallery
 
 <p align="center">
-  <img src="Onboarding.jpg" width="200" alt="Onboarding Screen">
-  <img src="Category.jpg" width="200" alt="Categories Grid">
-  <img src="Compass.jpg" width="200" alt="Reading View">
-  <img src="Poem.jpg" width="200" alt="Compass Feature">
-  <img src="Profile.jpg" width="200" alt="User Profile">
+  <img src="onBoarding.png" width="200" alt="Onboarding Screen">
+  <img src="Category.png" width="200" alt="Categories Grid">
+  <img src="Poem.png" width="200" alt="Reading View">
+  <img src="Compass.png" width="200" alt="Compass Feature">
+  <img src="Profile.png" width="200" alt="User Profile">
 </p>
 
 ---
